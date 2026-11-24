@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Automation · AI · Software Development</b>
+  <b>Automation · AI · Software Development · Quality Assurance</b>
 </p>
 
 <h3 align="center">Tech</h3>
